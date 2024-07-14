@@ -13,6 +13,8 @@
 
 Using [Thonny](https://thonny.org) IDE
 
+If you have trouble setting it up. Follow [this video](https://www.youtube.com/watch?v=zlKJ5hvfs6s)
+
 ### Branch: Blink
 
 ```
