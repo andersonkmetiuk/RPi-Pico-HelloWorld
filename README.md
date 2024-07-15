@@ -14,6 +14,8 @@ Install [Thonny](https://thonny.org) IDE
 
 Go in the `Tools> Options > Interpreter` and select `MicroPython (Raspberry Pi Pico)` option and also the `Board CDC` under Port option.
 
+Remember to name the scripts that you send to the `Pico` as `main.py` so they are going to be interpreted right away as the default config for the board.
+
 If you have trouble setting it up. Follow [this video](https://www.youtube.com/watch?v=zlKJ5hvfs6s)
 
 ## Examples
