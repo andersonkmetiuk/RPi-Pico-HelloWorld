@@ -8,12 +8,15 @@
 ![Pico Pinout](/assets/images/Pico-Pinout.PNG)
 
 ---
+## Setup
 
-## Examples
+Install [Thonny](https://thonny.org) IDE
 
-Using [Thonny](https://thonny.org) IDE
+Go in the `Tools> Options > Interpreter` and select `MicroPython (Raspberry Pi Pico)` option and also the `Board CDC` under Port option.
 
 If you have trouble setting it up. Follow [this video](https://www.youtube.com/watch?v=zlKJ5hvfs6s)
+
+## Examples
 
 ### Branch: Blink
 
